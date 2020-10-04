@@ -17,7 +17,6 @@ public class QuestionA {
 			n = n.next;
 		}
 	}
-	
 	public static void main(String[] args) {	
 		LinkedListNode first = new LinkedListNode(0, null, null); //AssortedMethods.randomLinkedList(1000, 0, 2);
 		LinkedListNode head = first;
